@@ -1,0 +1,2 @@
+# archconfig
+Arch Global Configuration
